@@ -43,7 +43,8 @@ af.questionlist[col] # shows the analysis for a specific column inline
 
 Here's an example of running the code in the Jupyter notebook:
 
-![example](https://user-images.githubusercontent.com/26487650/29201005-1617dd7e-7e0f-11e7-873e-f43f9c1d87c5.png)
+![example](https://github.com/Prashantpp6/Confirmit-Survey-Analysis/blob/master/datacleaning.png)
+
 
 DataClean lists existing 5-, 7-, or 11-scale grid or 100-scale slider questions for which buckets have been created.
 
