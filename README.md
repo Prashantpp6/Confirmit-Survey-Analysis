@@ -50,4 +50,5 @@ DataClean lists existing 5-, 7-, or 11-scale grid or 100-scale slider questions 
 
 Here's a preview of the csv output, which showcases the automatically bucketed analysis:
 
-![csv_screenshot](https://user-images.githubusercontent.com/26487650/29201011-24df83e8-7e0f-11e7-9314-0e08419812ac.png)
+![csv_screenshot](https://github.com/Prashantpp6/Confirmit-Survey-Analysis/blob/master/preview%20bucketed%20analysis.png)
+
